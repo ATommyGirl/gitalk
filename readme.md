@@ -1,3 +1,9 @@
+# Why fork?
+
+Set dark mode.
+
+Edit gitalk.css.
+
 # Gitalk
 
 [![NPM][npm-version-image]][npm-version-url] 
